@@ -35,12 +35,6 @@ It involves identifying, exploiting, and mitigating common web application vulne
 - Identified input fields and request parameters  
 - Mapped out site directories and entry points  
 
-*Commands / Tools Used:*
-```bash
-# Intercepting requests
-Burp Suite → Proxy → Intercept → ON
-
-
 
 ## 💉 Phase 2 — SQL Injection Testing
 
@@ -181,3 +175,8 @@ Performing similar activities on unauthorized systems is illegal and punishable 
 
 ## Linkedin Video Link
    https://www.linkedin.com/posts/palak-baranwal-a98145337_cybersecurity-websecurity-ethicalhacking-activity-7389706164277673984-BKdd?utm_source=social_share_send&utm_medium=android_app&rcm=ACoAAFSPZ9QBM7MH4wKOnhLjjQttu_AWlDqDMA0&utm_campaign=whatsapp
+
+   *Commands / Tools Used:*
+```bash
+# Intercepting requests
+Burp Suite → Proxy → Intercept → ON
